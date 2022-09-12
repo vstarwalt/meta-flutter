@@ -125,6 +125,3 @@ When building on systems with GCC version > than uninative in Yocto distro add t
 
 ## Flutter Workspace Automation
 Please visit [here](tools/README.md) for how to setup Flutter workspace automatically.
-
-
- 
